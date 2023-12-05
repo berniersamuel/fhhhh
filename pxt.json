@@ -1,9 +1,10 @@
 {
-    "name": "fhhhh",
+    "name": "duo",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "controller": "*"
     },
     "files": [
         "README.md",
